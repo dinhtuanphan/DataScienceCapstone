@@ -27,5 +27,7 @@ This course will be separated into 8 different tasks that cover the range of act
 
 You will hear about each of these tasks over the course of the capstone.
 
+Tuan
+
 
 
