@@ -36,7 +36,7 @@ The goal of this project is just to display that you've gotten used to working w
 3. Report any interesting findings that you amassed so far.
 4. Get feedback on your plans for creating a prediction algorithm and Shiny app.
 
-[My Report on Natural Language Processing Project](https://rpubs.com/dtphan/NaturalLanguageProcessing)
+[Report on Natural Language Processing Project](https://rpubs.com/dtphan/NaturalLanguageProcessing)
 
 ### App Deveplopment
 
