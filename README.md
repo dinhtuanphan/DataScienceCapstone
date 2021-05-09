@@ -36,23 +36,27 @@ The goal of this project is just to display that you've gotten used to working w
 3. Report any interesting findings that you amassed so far.
 4. Get feedback on your plans for creating a prediction algorithm and Shiny app.
 
-[Report on Natural Language Processing Project](https://rpubs.com/dtphan/NaturalLanguageProcessing)
+
+- [Report on Natural Language Processing Project](https://rpubs.com/dtphan/NaturalLanguageProcessing)
 
 ### App Deveplopment
 
 #### Data Product
 
-- Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?
-- Does the app load to the point where it can accept input?
-- When you type a phrase in the input box do you get a prediction of a single word after pressing submit and/or a suitable delay for the model to compute the answer?
-- Put five phrases drawn from Twitter or news articles in English leaving out the last word. Did it give a prediction for every one?
+1. Does the link lead to a Shiny app with a text input box that is running on shinyapps.io?
+2. Does the app load to the point where it can accept input?
+3. When you type a phrase in the input box do you get a prediction of a single word after pressing submit and/or a suitable delay for the model to compute the answer?
+4. Put five phrases drawn from Twitter or news articles in English leaving out the last word. Did it give a prediction for every one?
 
 
 #### Slide Deck
 
-- Does the link lead to a 5 slide deck on R Pubs?
-- Does the slide deck contain a description of the algorithm used to make the prediction?
-- Does the slide deck describe the app, give instructions, and describe how it functions?
-- How would you describe the experience of using this app?
-- Does the app present a novel approach and/or is particularly well done?
-- Would you hire this person for your own data science startup company?
+1. Does the link lead to a 5 slide deck on R Pubs?
+2. Does the slide deck contain a description of the algorithm used to make the prediction?
+3. Does the slide deck describe the app, give instructions, and describe how it functions?
+4. How would you describe the experience of using this app?
+5. Does the app present a novel approach and/or is particularly well done?
+6. Would you hire this person for your own data science startup company?
+
+
+- [Slide Deck on Natural Language Processing Project](https://rpubs.com/dtphan/NextWords)
