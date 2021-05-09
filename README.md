@@ -60,4 +60,4 @@ The goal of this project is just to display that you've gotten used to working w
 6. Would you hire this person for your own data science startup company?
 
 
-- [Slide Deck on Natural Language Processing Project](https://rpubs.com/dtphan/NextWords)
+- [Slide Deck on Natural Language Processing Project](https://rpubs.com/dtphan/NextWordsApp)

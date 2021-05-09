@@ -6,10 +6,9 @@ transition: linear
 class: smaller
 css: style.css
 
-Natural Language Processing Project<br />
 Johns Hopkins University<br />
 
-10 May, 2021
+May 09, 2021
 
 ========================================================
 # **Overview**
@@ -17,13 +16,11 @@ Johns Hopkins University<br />
 <medium>
 - Communicate data product to managers or investors
 
-- Create a slide deck promoting the product
+- Promote the product
 
 - Show the user how the product works
 
 - Explain the product and why it is awesome!
-
-- Constrained to be 5 slides or less
 
 The NextWords App can be used at:
 
@@ -60,9 +57,7 @@ three large corpora of blogs, news and twitter data
 - Sample data was tokenized and cleaned using the 
 **tm** package and regular expressions by **gsub** function 
 
-- Sample data was converted to lowercase, removed all non-ascii characters, URLs,
-email addresses, Twitter handles, hash tags, ordinal numbers,
-bad words, punctuation and whitespace
+- Sample data was converted to lowercase and performed text cleaning
 
 - The data was split into different n-grams tokens
 
