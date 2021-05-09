@@ -48,6 +48,7 @@ The goal of this project is just to display that you've gotten used to working w
 3. When you type a phrase in the input box do you get a prediction of a single word after pressing submit and/or a suitable delay for the model to compute the answer?
 4. Put five phrases drawn from Twitter or news articles in English leaving out the last word. Did it give a prediction for every one?
 
+- [NextWords App](https://rpubs.com/dtphan/NextWords)
 
 #### Slide Deck
 
