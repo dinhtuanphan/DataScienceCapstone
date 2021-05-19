@@ -8,7 +8,7 @@ This course can be applied to multiple Specializations or Professional Certifica
 - Data Science Specialization (10 courses in 11 months)
 - Data Science: Statistics and Machine Learning Specialization
 
-### You are a data scientist now
+### I am a data scientist now
 
 The goal of this data science specialization has been to give you the basic skills involved with being a data scientist. The goal of this capstone is to mimic the experience of being a data scientist. As a practicing data scientist it is entirely common to get a messy data set, a vague question, and very little instruction on exactly how to analyze the data. Our goal is to give you that same experience but with added support in the form of forums, discussion with instructors, feedback from SwiftKey and Coursera engineers, and a structured problem to solve. We hope that you will take advantage of the opportunity this project affords for you to demonstrate your skills and creativity. 
 
