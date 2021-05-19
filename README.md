@@ -1,16 +1,17 @@
 # About Data Science Capstone
 
-The capstone project will allow students to create a usable/public data product that can be used to show your skills to potential employers. Projects will be drawn from real-world problems and will be conducted with industry, government, and academic partners.
+The capstone project will allow students to create a usable/public data product that can be used to show their skills to potential employers. Projects will be drawn from real-world problems and will be conducted with industry, government, and academic partners.
 
 ### This course is part of multiple programs
 This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning in any of the following programs:
 
-- Data Science Specialization (10 courses in 11 months)
+- Data Science Specialization (10 courses in 11 months — as introduced by Coursera JHU)
 - Data Science: Statistics and Machine Learning Specialization
 
 ### I am a data scientist now
 
-The goal of this data science specialization has been to give you the basic skills involved with being a data scientist. The goal of this capstone is to mimic the experience of being a data scientist. As a practicing data scientist it is entirely common to get a messy data set, a vague question, and very little instruction on exactly how to analyze the data. Our goal is to give you that same experience but with added support in the form of forums, discussion with instructors, feedback from SwiftKey and Coursera engineers, and a structured problem to solve. We hope that you will take advantage of the opportunity this project affords for you to demonstrate your skills and creativity. 
+- The goal of this data science specialization has been to give you the basic skills involved with being a data scientist. The goal of this capstone is to mimic the experience of being a data scientist. As a practicing data scientist, it is entirely common to get a messy data set, a vague question, and very little instruction on exactly how to analyze the data. Our goal is to give you that same experience but with added support in the form of forums, discussion with instructors, feedback from SwiftKey and Coursera engineers, and a structured problem to solve. We hope that you will take advantage of the opportunity this project affords for you to demonstrate your skills and creativity. 
+- As a side note: I spent almost 18 months completing 10 courses in Data Science Specialization. It was too long as I know many students can finish in 3-6 months. Part of my long study time is because I wanted to apply and explore new tools/concepts immediately to my research.
 
 ### Course tasks
 
